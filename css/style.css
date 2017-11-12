@@ -1,5 +1,5 @@
 body {
-	background-color: #ebed7d;
+	background-color: #a8f7ca;
 	font-family: 'Butterfly Kids', cursive;
 }
 
@@ -8,12 +8,12 @@ body {
 	max-width: 100%;
 }
 .profile-title {
-	color: #51f7b5;
+	color: #d14b29;
 	font-family: 'Gloria Hallelujah', cursive;
 	font-size: 30px;
 }
 .love {
-	color: #f9c0c6;
+	color: #36133f;
 	font-family: 'Aladin', cursive;
 	font-size: 20px
 }
@@ -26,7 +26,11 @@ body {
 	font-family: 'Caveat Brush', cursive;
 }
 .foodintake {
-	background-color: #7bf7ab;
+	background-color: #0e724a;
+	color: #dcf2e9;
+}
+.foodintake1 {
+	background-color: #080e26;
 }
 .tryfood {
 	font-family: 'Caveat Brush', cursive;
@@ -35,7 +39,7 @@ body {
 	font-family: 'Caveat Brush', cursive;
 }
 .my-nav {
-	background-color: pink;
+	background-color: #edd0f4;
 }
 .description {
   background-image: url("../img/2017-06-12-seaside-celebrations.jpg");
@@ -49,8 +53,10 @@ html, body {
 }
 .no-bg {
 	background: none;
+	font-family: 'Caveat Brush', cursive;
+	color: #36133f;
 }
-.card1 {
+.aboutmecard {
 	background-color: pink;
 }
 .card2 {
@@ -59,3 +65,7 @@ html, body {
 .card3 {
 	background-color: #617799;
 }
+.my-nav {
+	font-family: 'Merienda One', cursive;
+}
+
