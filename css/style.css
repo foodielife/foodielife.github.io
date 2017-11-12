@@ -1,0 +1,61 @@
+body {
+	background-color: #ebed7d;
+	font-family: 'Butterfly Kids', cursive;
+}
+
+
+.profile-pic {
+	max-width: 100%;
+}
+.profile-title {
+	color: #51f7b5;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 30px;
+}
+.love {
+	color: #f9c0c6;
+	font-family: 'Aladin', cursive;
+	font-size: 20px
+}
+
+.aboutme {
+	font-family: 'Caveat Brush', cursive;
+	color: #0f0f33;
+}
+.skills {
+	font-family: 'Caveat Brush', cursive;
+}
+.foodintake {
+	background-color: #7bf7ab;
+}
+.tryfood {
+	font-family: 'Caveat Brush', cursive;
+}
+.places {
+	font-family: 'Caveat Brush', cursive;
+}
+.my-nav {
+	background-color: pink;
+}
+.description {
+  background-image: url("../img/2017-06-12-seaside-celebrations.jpg");
+  background-repeat: repeat-x;
+}
+.backgroundpic {
+  background-image: url("../img/c.jpg");
+}
+html, body {
+	min-height: 100%;
+}
+.no-bg {
+	background: none;
+}
+.card1 {
+	background-color: pink;
+}
+.card2 {
+	background-color: #aec8f2;
+}
+.card3 {
+	background-color: #617799;
+}
